@@ -2,7 +2,7 @@
 
 Galaxy Game is a thrilling arcade-style game developed with Python and the Kivy framework, taking players on an exciting adventure through the galaxy. Players control a spaceship, navigating through a dynamically generated tile-based path, avoiding obstacles, and surviving as long as possible to score high points.
 
-![img](data/2.gif)
+![img](Results/2.gif)
 
 ## Features
 
